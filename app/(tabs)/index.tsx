@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
     alignItems: 'flex-end',
     backgroundColor: 'white',
-    marginHorizontal: 10,
+    marginHorizontal: 11,
   },
   text: {
     fontSize: 100,
